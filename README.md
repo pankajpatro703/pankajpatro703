@@ -1,14 +1,14 @@
 ### The Libre Restaurant Analogy
 
-Imagine a *restaurant* where you are mandated to pay for the *dish* in advance and sign an agreement to not try to reproduce any of the *cuisine* without prior permission from the *management*, before being offered a *seat*. You are then *blindfolded* and *fed* the *dish*. The *recipe* is a secret and even the *chefs* are legally forbidden from disclosing them.    
+Imagine a *restaurant* where before being offered a *seat* you are mandated to pay for the *dish* in advance and sign an agreement to not try to reproduce any of the *cuisine* without prior permission from the *management*. You are then *blindfolded* and *fed* the *dish*. The *recipe* is a secret and even the *chefs* are legally forbidden from disclosing them.    
 
 Next, imagine a *restaurant* where you can ask to look for any of the *recipes* at any time and *order* your *dish* if you want to. Since nothing is holding you back from replicating the *dish* and/or selling it, the prices are extremely low. You are permitted to share the *recipe* with anyone along with any modifications you think that would enhance the *dish*. The *chefs* benefit from this and are able to better the *dish* with time. The community helps improve the quality of the *dish*.    
 
 The former *restaurant* may be profitable but can hardly be called ethical. It tries to sue and shutdown nearby *restaurants* which pose danger to its business. The latter respects your freedom of knowing what you *eat*.    
 
 In this analogy, source codes are the 'recipe' that a computer needs to generate softwares for the user while programming is the art of writing meaningful pieces of software.         
-Not everyone owns a *restaurant* or knows how to *cook* but everyone needs *food* to survive. We should be free to choose what we want to *eat*.  
-You can find more about software freedom [here](https://www.gnu.org/philosophy/free-sw.en.html).    
+Not everyone owns a *restaurant* or knows how to *cook* but everyone needs to consume *food*. We should be free to choose what we want to *eat*.  
+You can find more about **Software Freedom** [here](https://www.gnu.org/philosophy/free-sw.en.html).    
 
 ---
 
