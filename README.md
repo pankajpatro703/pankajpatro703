@@ -7,12 +7,12 @@ Next, imagine a *restaurant* where you can ask to look for any of the *recipes* 
 The former *restaurant* may be profitable but can hardly be called ethical. It tries to sue and shutdown nearby *restaurants* which pose danger to its business. The latter respects your freedom of knowing what you *eat*.    
 
 In this analogy, source codes are the 'recipe' that a computer needs to generate softwares for the user while programming is the art of writing meaningful pieces of software.         
-Not everyone owns a *restaurant* or knows how to *cook* but everyone needs to consume *food*. We should be free to choose what we want to *eat*.  
-You can find more about **Software Freedom** [here](https://www.gnu.org/philosophy/free-sw.en.html).    
+Not everyone owns a *restaurant* or knows how to *cook* but everyone needs to consume *food*. We should be free to choose what we want to *eat* and understand our duty to ensure we give back the same to others as we expect of them.    
+You can read more about **Software Freedom** [here](https://www.gnu.org/philosophy/free-sw.en.html).      
 
 ---
 
-Ideally, I envision **Free/Libre Open Source Computing** at both the *hardware* and *software* levels which can hopefully one day be a practical reality.   
+Ideally, I envision **Free/Libre Open Source Computing Standards** at both the *hardware* and *software* levels which can hopefully one day be a practical reality.   
 
 <!--
 **pankajpatro703/pankajpatro703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
